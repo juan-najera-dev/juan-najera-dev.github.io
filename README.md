@@ -1,2 +1,1 @@
-# jcnajeradev.github.io
-Juan Nájera Portafolio
+# Portafolio Juan Nájeara
